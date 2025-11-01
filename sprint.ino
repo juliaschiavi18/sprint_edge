@@ -60,7 +60,7 @@ void loop() {
   
     if (WiFi.status() == WL_CONNECTED) {
       HTTPClient http;
-      http.begin(serverName); // URL do Mock
+      http.begin(serverName); 
       http.addHeader("Content-Type", "application/json");
 
       int codigo = http.POST(json);
