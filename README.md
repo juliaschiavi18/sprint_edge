@@ -32,6 +32,11 @@ Principais elementos:
 - Interface responsiva: pode ser acessada via computador, tablet ou celular.
 
 
+
+**👉 LINK DO WOKWI ->** [Click aqui para acessar a simulação](https://wokwi.com/projects/446359728707088385)
+
+**👉 LINK DO SITE ->** [Click aqui para acessar ao Site ](link )
+
 ## 👩‍💻 Desenvolvedores 
 
 - Julia Schiavi
